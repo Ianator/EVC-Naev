@@ -1,0 +1,37 @@
+<ship name="Rapier"/>
+	<points>30
+	<base_type>"Rapier"</base_type>
+	<gfx>
+	<gui>
+	<sound>
+	<class>Fighter</class>
+	<price>1200000</price>
+	<time_mod>1.0</time_mod>
+	<trail_generator>
+	<fabricator>"CDX Starworks"</fabricator>
+	<license>
+	<cond>
+	<condstr>
+	<description>CDX Starworks's most popular offering, the F/A-927E Rapier attack fighter, is the heaviest-armed starfighter on the market. It has both missile racks and a torpedo launcher, and it is equipped with a laser turret for self-defense as well. However, all this firepower comes at the expense of speed and maneuverability, making the Rapier the clumsiest starfighter around. Still, it is popular with bounty hunters, corporate governments, and anyone needing a little more punch than is offered by other fighters.</description>
+	<characteristics>
+		<crew>2</crew>
+		<mass>15</mass>
+		<fuel>400</fuel>
+		<fuel_consumption>100</fuel_consumption>
+		<cargo>15</cargo>
+		<armour>15</armour>
+		<shield>35</shield>
+		<shield_regen>0.48</shield_regen>
+		<speed>300</speed>
+		<thrust>217</thrust>
+		<turn>120</turn>
+	</characteristics>
+	<slots>
+		<weapon size="gun" x="0" y="0" h="0">Laser Cannon</weapon>
+		<weapon size="gun" x="0" y="0" h="0">Laser Cannon</weapon>
+		<weapon size="gun" x="0" y="0" h="0">Laser Cannon</weapon>
+		<weapon size="gun" x="0" y="0" h="0">Laser Cannon</weapon>
+		<weapon size="turret" x="0" y="0" h="0">Rear Laser Turret</weapon>
+	</slots>
+	<tags>
+</ship>

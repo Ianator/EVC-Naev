@@ -1,0 +1,36 @@
+<ship name="Defender">
+	<points>
+	<base_type>"Defender"</base_type>
+	<gfx>
+	<gui>
+	<sound>
+	<class>Interceptor</class>
+	<price>100000</price>
+	<time_mod>1.0</time_mod>
+	<trail_generator>
+	<fabricator>"CDX Starworks</fabricator>
+	<license>
+	<cond>
+	<condstr>
+	<description>The CDX Starworks I-287B Defender is used primarily by corporations and small governments who wish to protect their spheres of influence. Although the Defender is the fastest and most maneuverable fighter in production, its light armament, weak shielding, and abysmal fuel capacity relegate it to the role of an in-system interceptor, not a strike fighter. This latest version, the Defender Mk. II, has been retrofitted with larger fuel tanks to address this concern, but it is still limited in range.</description>
+	<characteristics>
+		<crew>1</crew>
+		<mass>9</mass>
+		<fuel>300</fuel>
+		<fuel_consumption>100</fuel_consumption>
+		<cargo>1</cargo>
+		<armour>1</armour>
+		<shield>10</shield>
+		<shield_regen>0.33</shield_regen>
+		<speed>500</speed>
+		<thrust>375</thrust>
+		<turn>180</turn>
+	</characteristics>
+	<slots>
+		<weapon size="gun" x="0" y="0" h="0">Laser Cannon</weapon>
+		<weapon size="gun" x="0" y="0" h="0">Laser Cannon</weapon>
+		<weapon size="gun" x="0" y="0" h="0">Laser Cannon</weapon>
+	</slots>
+	<stats>
+	<tags>
+</ship>

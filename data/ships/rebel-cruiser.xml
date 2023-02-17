@@ -1,0 +1,43 @@
+<ship name="Rebel Cruiser">
+	<points>
+	<base_type>"Rebel Cruiser"</base_type>
+	<gfx>
+	<gui>
+	<sound>
+	<class>Cruiser</class>
+	<price>14000000</price>
+	<time_mod>1.0</time_mod>
+	<trail_generator>
+	<fabricator>"Rebellion"
+	<license>
+	<cond>
+	<condstr>
+	<description>Operating in secret and in the worst of conditions from bases on primitive backwater planets, the shipwrights of the Rebellion have crafted one of the most beautiful and lethal fighting ships in existence. The Rebel cruiser's circular engine-support pylons double as an external docking rack for its complement of Manta fighters; this unique arrangement allows the ship to launch its entire squadron of fighters almost simultaneously, giving it a great advantage in combat.</description>
+	<characteristics>
+		<crew>527</crew>
+		<mass>850</mass>
+		<fuel>500</fuel>
+		<fuel_consumption>100</fuel_consumption>
+		<cargo>60</cargo>
+		<armour>80</armour>
+		<shield>500</shield>
+		<shield_regen>0.84</shield_regen>
+		<speed>200</speed>
+		<thrust>140</thrust>
+		<turn>60</turn>
+	</characteristics>
+	<slots>
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="turret" x="0" y="0" h="0" />
+		<weapon size="turret" x="0" y="0" h="0" />
+		<weapon size="turret" x="0" y="0" h="0" />
+		<weapon size="turret" x="0" y="0" h="0" />
+		<weapon size="fighter" x="0" y="0" h="0" />
+		<weapon size="fighter" x="0" y="0" h="0" />
+	</slots>
+	<tags>
+</ship>

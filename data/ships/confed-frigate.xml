@@ -1,0 +1,42 @@
+<ship name="Confederate Frigate">
+	<points>
+	<base_type>"Frigate"</base_type>
+	<gfx>
+	<gui>
+	<sound>
+	<class>Corvette</class>
+	<price>5000000</price>
+	<time_mod>1.0</time_mod>
+	<trail_generator>
+	<fabricator>"Terran Naval Yards"</fabricator>
+	<license>
+	<cond>
+	<condstr>
+	<description>Terran Naval Yards builds the FF-4237 frigate exclusively for the Confederation Navy. It is a rugged and flexible design, more than a match for the puny Atonida Kestrel and any other escort ships. The use of this glorious ship as the backbone of the Navy's task forces will surely be sufficient to crush the Rebellion's pitiful space fleets.</description>
+	<characteristics>
+		<crew>217</crew>
+		<mass>350</mass>
+		<fuel>300</fuel>
+		<fuel_consumption>100</fuel_consumption>
+		<cargo>50</cargo>
+		<armour>50</armour>
+		<shield>250</shield>
+		<shield_regen>0.33</shield_regen>
+		<speed>150</speed>
+		<thrust>187</accel>
+		<turn>60</turn>
+	</characteristics>
+	<slots>
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="turret" x="0" y="0" h="0" />
+		<weapon size="turret" x="0" y="0" h="0" />
+		<weapon size="turret" x="0" y="0" h="0" />
+	</slots>
+	<stats>
+	<tags>
+</ship>

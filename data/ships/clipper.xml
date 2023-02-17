@@ -1,0 +1,38 @@
+<ship name="Clipper">
+	<points>
+	<base_type>"Clipper"
+	<gfx>
+	<gui>
+	<sound>
+	<class>Courier
+	<price>400000
+	<time_mod>1.0</time_mod>
+	<trail_generator>
+	<fabricator>"Aerostar Space Industries"</fabricator>
+	<license>
+	<cond>
+	<condstr>
+	<description>Aerostar Space Industries' assembly lines are mainly devoted to producing starship subassemblies for other manufacturers, but their C-35 Star Clipper Mk. IV is their most widely-recognized product. This sleek, delta-winged ship is a combination courier vessel and light warship, and excels in both roles. Its offensive and defensive capabilities are quite good for a ship of its size, and it has ample room for expansion that allows it to be turned into either a top-flight cargo hauler or an outstanding heavy fighter.</description>
+	<characteristics>
+		<crew>6</crew>
+		<mass>85</mass>
+		<fuel>400</fuel>
+		<fuel_consumption>100</fuel_consumption>
+		<cargo>35</cargo>
+		<armour>20</armour>
+		<shield>30</shield>
+		<shield_regen>0.30</shield_regen>
+		<speed>125</speed>
+		<thrust>95</accel>
+		<turn>60</turn>
+	</characteristics>
+	<slots>
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="turret" x="0" y="0" h="0" />
+	</slots>
+	<stats>
+	<tags>
+</ship>

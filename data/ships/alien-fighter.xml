@@ -1,0 +1,41 @@
+<ship name="Alien Fighter">
+	<points>
+	<base_type>"Alien Fighter"</base_type>
+	<gfx>
+	<gui>
+	<sound>
+	<class>Fighter</class>
+	<price>0
+	<time_mod>1.0</time_mod>
+	<trail_generator>
+	<fabricator>"Aliens"
+	<license>
+	<cond>
+	<condstr>
+	<description>Deadlier than a Rebel Cruiser, the alien fighter is fast, highly maneuverable and is almost invincible in combat due to its size and ability to quickly regenerate its shields. Travelling in flights of three, these fighters are extremely aggressive and should be treated with extreme caution if encountered.</description>
+	<characteristics>
+		<crew>8</crew>
+		<mass>18</mass>
+		<fuel>1000</fuel>
+		<fuel_consumption>100</fuel_consumption>
+		<cargo>10</cargo>
+		<armour>1</armour>
+		<shield>500</shield>
+		<shield_regen>6.25</shield_regen>
+		<speed>500</speed>
+		<thrust>450</accel>
+		<turn>180</turn>
+	</characteristics>
+	<slots>
+		<weapon size="gun" x="0" y="0" h="0">Fusion Beam</weapon>
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+	</slots>
+	<stats>
+	<tags>
+</ship>

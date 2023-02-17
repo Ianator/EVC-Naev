@@ -1,0 +1,37 @@
+<ship name="Confederate Patrol Ship">
+	<points>
+	<base_type>"Patrol Ship"
+	<gfx>
+	<gui>
+	<sound>
+	<class>Interceptor</class>
+	<price>700000</price>
+	<time_mod>1.0</time_mod>
+	<trail_generator>
+	<fabricator>"Terran Naval Yards</fabricator>
+	<license>
+	<cond>
+	<condstr>
+	<description>The P-361 patrol fighter, manufactured by the Terran Naval Yards, is the best starfighter ever designed. No other small ship can beat it in a dogfight - at least, such an occurence has never been publically reported.</description>
+	<characteristics>
+		<crew>1</crew>
+		<mass>11</mass>
+		<fuel>200</fuel>
+		<fuel_consumption>100</fuel_consumption>
+		<cargo>5</cargo>
+		<armour>1</armour>
+		<shield>20</shield>
+		<shield_regen>0.33</shield_regen>
+		<speed>350</speed>
+		<thrust>217</accel>
+		<turn>120</turn>
+	</characteristics>
+	<slots>
+		<weapon size="gun" x="0" y="0" h="0">Proton Cannon</weapon>
+		<weapon size="gun" x="0" y="0" h="0">Proton Cannon</weapon>
+		<weapon size="gun" x="0" y="0" h="0">Proton Cannon</weapon>
+		<weapon size="gun" x="0" y="0" h="0" />
+	</slots>
+	<stats>
+	<tags>
+</ship>

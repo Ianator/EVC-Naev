@@ -1,0 +1,39 @@
+<ship name="Lightning">
+	<points>
+	<base_type>"Lightning"</base_type>
+	<gfx>
+	<gui>
+	<sound>
+	<class>Fighter</class>
+	<price>1000000</price>
+	<time_mod>1.0</time_mod>
+	<trail_generator>
+	<fabricator>"Blazitron Industries"</fabricator>
+	<license>
+	<cond>
+	<condstr>
+	<description>Blazitron Industries' new F-563 Lightning fighter-bomber recently won the Shelton Award for Extreme Cleverness, and it's easy to see why. The Lightning mixes high speed and good maneuverability with excellent firepower, resulting in an unbeatable combination. In addition, the design is so adaptable that a modified version, the F-563N, has been produced for shipboard operations.</description>
+	<characteristics>
+		<crew>2</crew>
+		<mass>15</mass>
+		<fuel>400</fuel>
+		<fuel_consumption>100</fuel_consumption>
+		<cargo>15</cargo>
+		<armour>15</armour>
+		<shield>35</shield>
+		<shield_regen>0.48</shield_regen>
+		<speed>350</speed>
+		<thrust>312</thrust>
+		<turn>150</turn>
+	</characteristics>
+	<slots>
+		<weapon size="gun" x="0" y="0" h="0">Laser Cannon</weapon>
+		<weapon size="gun" x="0" y="0" h="0">Laser Cannon</weapon>
+		<weapon size="gun" x="0" y="0" h="0">Laser Cannon</weapon>
+		<weapon size="gun" x="0" y="0" h="0">Laser Cannon</weapon>
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="turret" x="0" y="0" h="0">Rear Laser Turret</weapon>
+	</slots>
+	<stats>
+	<tags>
+</ship>

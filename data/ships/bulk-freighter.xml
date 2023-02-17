@@ -1,0 +1,34 @@
+<ship name="Bulk Freighter">
+	<points>
+	<base_type>"Bulk Freighter"
+	<gfx>
+	<gui>
+	<sound>
+	<class>Bulk-Freighter
+	<price>1200000
+	<time_mod>1.0</time_mod>
+	<trail_generator>
+	<fabricator>"Allied Shipyards"</fabricator>
+	<license>
+	<cond>
+	<condstr>
+	<description>The Allied Shipyards AS1300 is the best - indeed, the only - bulk freighter available. Their high cost and weak defenses preclude their use in the frontier systems, but further in, these huge ships carry the majority of commerce between the Core Worlds.</description>
+	<characteristics>
+		<crew>32</crew>
+		<mass>800</mass>
+		<fuel>1000</fuel>
+		<fuel_consumption>100</fuel_consumption>
+		<cargo>500</cargo>
+		<armour>25</armour>
+		<shield>10</shield>
+		<shield_regen>0.01</shield_regen>
+		<speed>80</speed>
+		<thrust>62</accel>
+		<turn>30</turn>
+	</characteristics>
+	<slots>
+		<weapon size="turret" x="0" y="0" h="0" />
+	</slots>
+	<stats>
+	<tags>
+</ship>
