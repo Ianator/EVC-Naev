@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Name">
+ <lua>spob/lua/lowclass.lua</lua>
+ <pos x="0" y="0"/>
+ <GFX>
+  <space>M00.webp</space>
+  <exterior>oceanic.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Confederation</faction>
+  <base>66.666667</base>
+  <bonus>33.333333</bonus>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>M</class>
+  <population>4.56745e+06</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>Spob description.</description>
+  <bar>Spob bar description.</bar>
+ </general>
+ <tech>
+  <item>Tech Item</item>
+ </tech>
+ <tags>
+  <tag>tag</tag>
+ </tags>
+</spob>

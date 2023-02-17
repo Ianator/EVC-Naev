@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin name="Escape Velocity Classic for Naev">
+ <author>Ianator</author>
+ <version>0.1</version>
+ <description>A plugin which ports Escape Velocity's content to Naev's engine.</description>
+ <compatibility>^0\.10\..*</compatibility>
+ <priority>1</priority>
+ <total_conversion />
+</plugin>
