@@ -1,0 +1,47 @@
+<ship name="Confederate Heavy Cruiser">
+	<points>
+	<base_type>"Heavy Cruiser"</base_type>
+	<gfx>
+	<gui>
+	<sound>
+	<class>Battleship</class>
+	<price>20000000</price>
+	<time_mod>1.0</time>
+	<trail_generator>
+	<fabricator>"Terran Naval Yards"</fabricator>
+	<license>
+	<cond>
+	<condstr>
+	<description>The Terran Naval Yards CR-1095 heavy cruiser is a natural outgrowth of the FF-4237 frigate, and indeed it resembles it closely, except for size. These glorious ships, and their complements of four patrol ships each, will surely bring the Rebellion to its knees.</description>
+	<characteristics>
+		<crew>1029</crew>
+		<mass>1000</mass>
+		<fuel>400</fuel>
+		<fuel_consumption>100</fuel_consumption>
+		<cargo>75</cargo>
+		<armour>100</armour>
+		<shield>800</shield>
+		<shield_regen>0.63</shield_regen>
+		<speed>150</speed>
+		<thrust>95</accel>
+		<turn>30</turn>
+	</characteristics>
+	<slots>
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="turret" x="0" y="0" h="0" />
+		<weapon size="turret" x="0" y="0" h="0" />
+		<weapon size="turret" x="0" y="0" h="0" />
+		<weapon size="turret" x="0" y="0" h="0" />
+		<weapon size="fighter" x="0" y="0" h="0" />
+		<weapon size="fighter" x="0" y="0" h="0" />
+	</slots>
+	<stats>
+	<tags>
+</ship>

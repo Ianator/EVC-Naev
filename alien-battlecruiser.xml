@@ -1,0 +1,51 @@
+<ship name="Alien Battlecruiser">
+	<points>
+	<base_type>"Alien Battlecruiser"</base_type>
+	<gfx>
+	<gui>
+	<sound>
+	<class>Battleship</class>
+	<price>0
+	<time_mod>1.0</time_mod>
+	<trail_generator>
+	<fabricator>"Aliens"</fabricator>
+	<license>
+	<cond>
+	<condstr>
+	<description>During the Great War, dozens of ships like these laid waste to entire planets. A single Alien Battlecruiser with its complement of fighters has the potential to wreak utter havoc if left unchecked. With its awesome array of weaponry, it poses a severe and deadly challenge - even to a numerically superior foe.</description>
+	<characteristics>
+		<crew>650</crew>
+		<mass>600</mass>
+		<fuel>2000</fuel>
+		<fuel_consumption>100</fuel_consumption>
+		<cargo>50</cargo>
+		<armour>10</armour>
+		<shield>1500</shield>
+		<shield_regen>1.88</shield_regen>
+		<speed>350</speed>
+		<thrust>300</accel>
+		<turn>60</turn>
+	</characteristics>
+	<slots>
+		<weapon size="gun" x="0" y="0" h="0">Heavy Fusion Beam</weapon>
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="gun" x="0" y="0" h="0" />
+		<weapon size="turret" x="0" y="0" h="0" />
+		<weapon size="turret" x="0" y="0" h="0" />
+		<weapon size="turret" x="0" y="0" h="0" />
+		<weapon size="turret" x="0" y="0" h="0" />
+		<weapon size="fighter" x="0" y="0" h="0">Alien Fighter Bay</weapon>
+	</slots>
+	<stats>
+	<tags>
+	<health>
+</ship>
