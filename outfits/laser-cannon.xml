@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<outfit name="name">
+ <general>
+  <typename>Outfit Name</typename>
+  <slot>structure</slot>
+  <size>small</size>
+  <mass>0</mass>
+  <price>0</price>
+  <description>Description.</description>
+  <gfx_store>xxx.webp</gfx_store>
+ </general>
+ <specific type="modification">
+  <energy>250</energy>
+ </specific>
+</outfit>
