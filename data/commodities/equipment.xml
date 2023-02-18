@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Equipment</name>
+ <description>A variety of machines installed in buildings and starships.</description>
+ <price>360</price>
+ <gfx_store>comm-equipment.webp</gfx_store>
+ <standard/>
+ <period>90</period>
+</commodity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Luxury Goods</name>
+ <description>Entertainment, art pieces and other items not truly necessary for habitation. High 525, Higher 620</description>
+ <price>425</price>
+ <gfx_store>comm-luxgoods.webp</gfx_store>
+ <standard/>
+ <period>100</period>
+</commodity>

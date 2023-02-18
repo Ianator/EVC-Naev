@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Name</name>
+ <description>Description.</description>
+ <price>100</price>
+ <gfx_store>graphic.webp</gfx_store>
+ <standard/>
+ <period>60</period>
+ <population_modifier>-0.25</population_modifier>
+ <spob_modifier type="0">1.4</spob_modifier>
+ <faction_modifier type="FLF">1.2</faction_modifier>
+</commodity>

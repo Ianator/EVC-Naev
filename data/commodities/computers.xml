@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Computers</name>
+ <description>Etched silicon caculators made to process billions of operations every second. Low 36 at Sirgil Starport</description>
+ <price>100</price>
+ <gfx_store>graphic.webp</gfx_store>
+ <standard/>
+ <period>60</period>
+</commodity>

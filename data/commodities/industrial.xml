@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Industrial</name>
+ <description>Large machinery for industrial applications. Higher at Sirgil Starport</description>
+ <price>240</price>
+ <gfx_store>comm-industrial.webp</gfx_store>
+ <standard/>
+ <period>60</period>
+</commodity>

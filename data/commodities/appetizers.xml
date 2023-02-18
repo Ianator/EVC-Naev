@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Appetizers</name>
+ <description>Delicacies including the spicy Delahanty plant. Buy at Clotho II (Clotho), sell at Beeblebrox (Zaphod)</description>
+ <price>155</price>
+ <gfx_store>comm-appetizer.webp</gfx_store>
+ <standard/>
+ <period>35</period>
+</commodity>

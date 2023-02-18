@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Seaweed</name>
+ <description>Aquatic plants with both industrial and edible applications. High 47 at Spica.</description>
+ <price>100</price>
+ <gfx_store>graphic.webp</gfx_store>
+ <standard/>
+ <period>60</period>
+</commodity>

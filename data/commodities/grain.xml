@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Grain</name>
+ <description>Wheat, rice, barley and more, tasty and rich in energy. Low 20 at Deneb III</description>
+ <price>100</price>
+ <gfx_store>graphic.webp</gfx_store>
+ <standard/>
+ <period>60</period>
+</commodity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Camels</name>
+ <description>Earth-native mammals known for their large back humps. Low 20 at Palomino</description>
+ <price>100</price>
+ <gfx_store>graphic.webp</gfx_store>
+ <standard/>
+ <period>60</period>
+</commodity>

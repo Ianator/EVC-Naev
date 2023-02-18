@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Food</name>
+ <description>Comestibles necessary for human habitation. Lower at Levo.</description>
+ <price>120</price>
+ <gfx_store>comm-food.webp</gfx_store>
+ <standard/>
+ <period>30</period>
+</commodity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Medical</name>
+ <description>Medicines, vaccines and other medical equipment and consumables.</description>
+ <price>600</price>
+ <gfx_store>comm-medical.webp</gfx_store>
+ <standard/>
+ <period>150</period>
+</commodity>

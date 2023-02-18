@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Viral Serum</name>
+ <description>An important but rare medical treatment. Low 544 at Istanbul.</description>
+ <price>700</price>
+ <gfx_store>comm-viralserum.webp</gfx_store>
+ <standard/>
+ <period>60</period>
+</commodity>

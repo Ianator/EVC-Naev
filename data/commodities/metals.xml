@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Metals</name>
+ <description>Refined iron, aluminum, titanium and other commonly used metals.</description>
+ <price>180</price>
+ <gfx_store>comm-metal.webp</gfx_store>
+ <standard/>
+ <period>40</period>
+</commodity>

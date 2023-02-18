@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commodity>
+ <name>Workdroids</name>
+ <description>Worker bots manufactured by Sirius Cybernetics Corporation. Low 272 at Sirius Station</description>
+ <price>100</price>
+ <gfx_store>graphic.webp</gfx_store>
+ <standard/>
+ <period>60</period>
+</commodity>
